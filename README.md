@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanguragain&label=Profile%20views&color=0e75b6&style=flat" alt="aryanguragain" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Database**
 
-- 💬 Ask me about **Figma, HTML, CSS**
+- 💬 Ask me about **Figma and UI UX**
 
 - 📫 How to reach me **aryanguragain007@gmail.com**
 
-- ⚡ Fun fact **I'm delusional**
+- ⚡ Open to **Poster Designs, UI Designs, Email Designs and Graphic Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
